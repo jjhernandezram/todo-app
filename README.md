@@ -1,9 +1,9 @@
 # webpack-configuracion-estandar
-Fin de la sección 8
+Configuración estandar de aplicación.
 
 
 ## Nota
-Recuerden que para reconstruir los módulos de node deben de ejecutar este comando
+Recuerden que para reconstruir los módulos de node deben de ejecutar este comando.
 
 ```
 npm install
